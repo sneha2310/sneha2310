@@ -35,20 +35,7 @@
 </span>
 <hr> 
   
-<h3><b><samp>Check out my Repositories</samp></b></h3>
-
-<span>
-<a href="https://github.com/amandewatnitrr/A-10-NEXA">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
-</a>
-<a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
-</a>
-  </span>
-  
-<hr>
-  
-
+ 
  <hr>
   
 ### Github Stats
